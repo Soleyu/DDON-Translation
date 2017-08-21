@@ -16,6 +16,12 @@ in the Hidell Plains is different.</translation>
 おおらか。しかし、海が村にもたらすものは魚や貝
 だけではない。座礁船や、時には海竜といった脅威
 が姿を現すこともある</original>
+    <translation>A fishing village in Breya Coast.
+It's blessed with a relatively calm environment,
+and kind people who feel close to the sea.
+But the ocean not only brings fish and shellfish 
+to the shores, stranded ships or even sea dragons 
+can also appear.</translation>
   </message>
   <message>
     <original>ブリア海岸の岬に立つ古い灯台
@@ -23,6 +29,8 @@ in the Hidell Plains is different.</translation>
 照らし続けてきた。灯台守は代々、退役騎士が
 務める習わしとなっており、現在の守番は高名な
 《シールドセージ》、ルドルフォである</original>
+    <translation>An old lighthouse at the cape of Breya Coast.</translation>
+<!--Still need to finish-->
   </message>
   <message>
     <original>ブリア海岸のはずれ、断崖の中腹に入り口を
